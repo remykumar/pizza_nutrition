@@ -41,3 +41,4 @@ Steps to run this static web application (without docker):
 
     http://localhost:5000 (or) http://[PublicIP]:5000
    
+![Module6_Assignment_Step2](https://user-images.githubusercontent.com/38254327/145840315-6ccd8fe8-6a11-44b3-ad0f-fb96faa0f7fd.png)
